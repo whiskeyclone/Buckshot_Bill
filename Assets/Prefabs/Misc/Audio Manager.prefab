@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4150848794015569070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4150848794015569068}
+  - component: {fileID: 4150848794015569071}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4150848794015569068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4150848794015569070}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.41873026, y: 0.699422, z: -13.306271}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4150848794015569071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4150848794015569070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eca3923258c64c4fb04d8549ad91253, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Shoot
+    clip: {fileID: 8300000, guid: 15e9aa08bb477d74ca741c63b5d489e0, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.125
+  - name: Splat
+    clip: {fileID: 8300000, guid: c331eaf7be379d443b151c373e899813, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.125
+  - name: Reload
+    clip: {fileID: 8300000, guid: f3717e7ae026e144e9b27b8aec80cbf8, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.35
+  - name: Doubloons
+    clip: {fileID: 8300000, guid: 33a1ba51bb0e46744be9f2a00561f7a8, type: 3}
+    audioSource: {fileID: 0}
+    loop: 1
+    volume: 0.3
+  - name: Impact
+    clip: {fileID: 8300000, guid: 600d50c22d759df40b39129de946e149, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.25
+  - name: Shoot 2
+    clip: {fileID: 8300000, guid: a7d3d72da2fb1494b9308315ef61cbcc, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.2
+  - name: Cash Register
+    clip: {fileID: 8300000, guid: 37a8cf6f4b038d14fb3fe005ed26d66d, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.3
+  - name: Menu Click
+    clip: {fileID: 8300000, guid: b6e233b943610d64187d74382261cc0b, type: 3}
+    audioSource: {fileID: 0}
+    loop: 0
+    volume: 0.25
+  - name: Shekels
+    clip: {fileID: 8300000, guid: 4ed665ccddb044641a9973df3c07b44e, type: 3}
+    audioSource: {fileID: 0}
+    loop: 1
+    volume: 0.4

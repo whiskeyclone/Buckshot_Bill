@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main_menu.unity
+    guid: 4c1054b554d788249ba37e35eb1763d4
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 6d117c17a3bc9af49abe7ec6f8c60405
+  - enabled: 1
+    path: Assets/Scenes/learn_to_swim.unity
+    guid: a09f5dcdbc233bb43845f62dbbb8a2f9
+  - enabled: 1
+    path: Assets/Scenes/air_control.unity
+    guid: 245270ef6205a3c48a0564a78394eb5c
+  - enabled: 1
+    path: Assets/Scenes/the_drop.unity
+    guid: 7ff726b6c5146f9419c245990b046279
+  - enabled: 1
+    path: Assets/Scenes/skrrt.unity
+    guid: 66f1fa9ae2003084caa7d202a935f296
+  - enabled: 1
+    path: Assets/Scenes/parabola.unity
+    guid: 5dae70639e390a447a9a3fed656b5040
+  - enabled: 1
+    path: Assets/Scenes/the_bends.unity
+    guid: babba80d24da14848a45cf957a5f7bc8
+  - enabled: 1
+    path: Assets/Scenes/pogo.unity
+    guid: 4bb602c14adf310478444706a7a52384
+  - enabled: 1
+    path: Assets/Scenes/serpent.unity
+    guid: 800b5e4074e73ba4ebbc5c4357bd075d
+  - enabled: 1
+    path: Assets/Scenes/shooting_range.unity
+    guid: 586fa1730c8dcce4fb6d4182a4c35dac
+  - enabled: 1
+    path: Assets/Scenes/son_of_colums.unity
+    guid: ced838c2ba3d3cb479b1956564d799a5
+  - enabled: 1
+    path: Assets/Scenes/columns.unity
+    guid: 26ca18e4cb452f34f925e0a1e34993cc
+  - enabled: 1
+    path: Assets/Scenes/they_move_now.unity
+    guid: 1cc33fedd7ae8c744a8fc8fb7ebd402e
+  - enabled: 1
+    path: Assets/Scenes/thread_the_needle.unity
+    guid: 2869fd0958dc90843a3f3a0d54abb50f
+  - enabled: 1
+    path: Assets/Scenes/coming_around_again.unity
+    guid: 2d96339df5b92394f8b82049da42fab2
+  - enabled: 1
+    path: Assets/Scenes/elevators_and_escalators.unity
+    guid: 6030ebff8808d37409fad43a5928eefc
+  - enabled: 1
+    path: Assets/Scenes/baby_blue.unity
+    guid: 40df2e6bc9983fc448481e323953b04e
+  - enabled: 1
+    path: Assets/Scenes/the_hole.unity
+    guid: 28f6b58c01c8d5649ad1b3cc7733f1d6
+  - enabled: 1
+    path: Assets/Scenes/banzai.unity
+    guid: 230feabcd46ed834b9b2a8f0fb1ec55d
+  - enabled: 1
+    path: Assets/Scenes/wriggler.unity
+    guid: 3bcf07adf5a51ac4aaf075d2b29f87f1
+  - enabled: 1
+    path: Assets/Scenes/juke.unity
+    guid: 004ede2c0df3ab940b3415ce873aee58
+  - enabled: 1
+    path: Assets/Scenes/sharp_shooting.unity
+    guid: 5fb84014568b07f47b00aecafe80c51f
+  - enabled: 1
+    path: Assets/Scenes/head_bumper.unity
+    guid: 4c588c00b3bd79144804c06a273bba78
+  - enabled: 1
+    path: Assets/Scenes/quick_shot.unity
+    guid: cd9cbc04068a3f647ad63f7056269889
+  - enabled: 1
+    path: Assets/Scenes/final_shekel.unity
+    guid: 8ffe0fce2cf8d6f4c851278640d0b32c
+  - enabled: 1
+    path: Assets/Scenes/outro.unity
+    guid: c860a92cc6c5c9e40b0b2f9e61257512
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: 5623919540d6c5e4581f91babbdf04b4
+  m_configObjects: {}
